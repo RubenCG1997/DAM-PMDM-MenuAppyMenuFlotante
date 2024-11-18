@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Menú App y Menú Flotante</string>
+    <string name="lbl_info">TEXTO DE PRUEBA</string>
+    <string name="title_info">Probando menús</string>
+</resources>
