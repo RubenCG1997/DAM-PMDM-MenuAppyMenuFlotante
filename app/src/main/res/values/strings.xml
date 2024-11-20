@@ -2,4 +2,11 @@
     <string name="app_name">Menú App y Menú Flotante</string>
     <string name="lbl_info">TEXTO DE PRUEBA</string>
     <string name="title_info">Probando menús</string>
+    <string name="opc_rojo">Rojo</string>
+    <string name="opc_verde">Verde</string>
+    <string name="opc_azul">Azul</string>
+    <string name="ad_title">Salir del programa</string>
+    <string name="ad_msg">¿Quieres salir del programa?</string>
+    <string name="ad_pos">Si</string>
+    <string name="ad_neg">No</string>
 </resources>

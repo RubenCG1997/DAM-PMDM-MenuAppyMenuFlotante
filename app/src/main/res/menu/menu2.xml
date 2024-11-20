@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opc_Rojo"
+        android:title="@string/opc_rojo" />
+    <item
+        android:id="@+id/opc_Verde"
+        android:title="@string/opc_verde" />
+    <item
+        android:id="@+id/opc_Azul"
+        android:title="@string/opc_azul" />
+</menu>

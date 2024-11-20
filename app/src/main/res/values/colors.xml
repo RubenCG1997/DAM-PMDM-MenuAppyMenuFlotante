@@ -3,6 +3,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="color_menuFlotante">#80DEEA</color>
-    <color name="color_lblInfo">#2196F3</color>
+    <color name="color_lblInfo">#0D47A1</color>
     <color name="color_toolbarText">#9C27B0</color>
+    <color name="color_bacground1">#B71C1C</color>
+    <color name="color_bacground2">#1B5E20</color>
+    <color name="color_bacground3">#0D47A1</color>
 </resources>
